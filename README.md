@@ -1,8 +1,8 @@
-# UICollectionView---Starter
+# UICollectionView Starter
 An all-about-the-iOS UICollectionView starter project (Xcode 8.2.1) with all basic features, written in Swift 3.0, and ready to be enhanced.
 
 ## Xcode project settings
-To get this project running on a device, go to the following locations in Xcode and make the suggested changes:
+To get this project running on a real **device (iPhone/iPad)**, go to the following locations in Xcode and make the suggested changes:
 
 1. Xcode -> [Project Name] -> TARGETS -> [Target Name] -> General -> Signing
 - [ ] Tick the "Automatically manage signing" box
