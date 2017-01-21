@@ -1,5 +1,5 @@
 # UICollectionView Starter
-An all-about-the-iOS UICollectionView starter project (Xcode 8.2.1) with all basic features, written in Swift 3.0, and ready to be enhanced.
+This is a UICollectionView starter project (Xcode 8.2.1) written in Swift 3.0. Feel free to use it as a template for building out a complete UICollectionView user interface. Build and run this code in the Simulator or on an iPhone and see that you can add, select/highlight, deselect/unhighlight, and remove UICollectionViewCell's. You can select, deselect, add, and remove one cell at a time, or multiple cells at a time. And most importantly, I demonstrate the importance of the relationship between a UICollectionView and its data source, and the importance of keeping a UICollectionView and its data source synchronized.
 
 ## Xcode project settings
 To get this project running on a real **device (iPhone/iPad)**, go to the following locations in Xcode and make the suggested changes:
