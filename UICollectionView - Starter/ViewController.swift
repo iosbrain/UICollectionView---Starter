@@ -220,18 +220,16 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
         }
     }
 
-    // MARK: - UICollectionView members
+    // MARK: - UICollectionViewDataSource
     
     /**
      We only have one section is our UICollectionView, but you
      can have many.
-    */
+     */
     func numberOfSections(in collectionView: UICollectionView) -> Int
     {
         return 1;
     }
-    
-    // MARK: - UICollectionViewDataSource
     
     /**
      "Asks your data source object [collectionViewDataSource] for the number of items in the 
